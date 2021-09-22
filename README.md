@@ -40,6 +40,8 @@ While developing and testing your contract, use the [Ganache](https://www.truffl
 
 ### Level One: The `AssociateProfitSplitter` Contract
 
+![contract](./Images/deploy-profit-splitter.png)
+
 At the top of your contract, you will need to define the following `public` variables:
 
 * `employee_one` -- The `address` of the first employee. Make sure to set this to `payable`.
@@ -89,6 +91,8 @@ Test the `deposit` function by sending various values. Keep an eye on the `emplo
 ![Remix Testing](./Images/testnet.png)
 
 ### Level Two: The `TieredProfitSplitter` Contract
+
+![contract](./Images/Tiered.png)
 
 In this contract, rather than splitting the profits between Associate-level employees, you will calculate rudimentary percentages for different tiers of employees (CEO, CTO, and Bob).
 
