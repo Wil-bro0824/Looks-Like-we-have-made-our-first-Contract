@@ -1,6 +1,6 @@
 # "Looks like we've made our First Contract!"
 
-![contract](C:\Users\wilbr\smartcontract\Looks-Like-we-have-made-our-first-Contract\Images\handshake.png)
+![contract](C:/Users/wilbr/smartcontract/Looks-Like-we-have-made-our-first-Contract/Images/handshake.png)
 
 ## Background
 
