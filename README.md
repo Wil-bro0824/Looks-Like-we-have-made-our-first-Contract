@@ -1,6 +1,6 @@
 # "Looks like we've made our First Contract!"
 
-![contract](C:/Users/wilbr/smartcontract/Looks-Like-we-have-made-our-first-Contract/Images/handshake.png)
+![contract](./Images/handshake.png)
 
 ## Background
 
@@ -86,7 +86,7 @@ You will need to fill in the constructor parameters with your designated `employ
 
 Test the `deposit` function by sending various values. Keep an eye on the `employee` balances as you send different amounts of Ether to the contract and ensure the logic is executing properly.
 
-![Remix Testing](Images/remix-test.png)
+![Remix Testing](./Images/testnet.png)
 
 ### Level Two: The `TieredProfitSplitter` Contract
 
